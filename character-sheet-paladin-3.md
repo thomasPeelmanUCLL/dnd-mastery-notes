@@ -207,7 +207,7 @@ You have the Weapon Mastery feature, allowing you to use the special properties 
 | Properties | Versatile |
 | Attack Bonus | +6 (Proficiency + Strength modifier = 2 + 4) |
 | Damage Total | 1d8 + 4 Slashing |
-| Mastery Property | (Choose from Versatile weapon properties) |
+| Mastery Property | Sap |
 
 #### Javelin
 
@@ -219,6 +219,7 @@ You have the Weapon Mastery feature, allowing you to use the special properties 
 | Attack Bonus (Ranged) | +6 |
 | Damage Total (Melee) | 1d6 + 4 Piercing |
 | Damage Total (Ranged) | 1d6 + 4 Piercing |
+| Mastery Property | Slow |
 
 ---
 
@@ -263,16 +264,21 @@ You have the Weapon Mastery feature, allowing you to use the special properties 
 - **Duration:** Concentration, up to 1 minute
 - **Effect:** A willing creature gains Temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns. While it has these Temporary Hit Points, it is immune to being Frightened.
 
-### Additional Prepared Spells (Choose 2 more)
+### Additional Prepared Spells
 
-You can prepare 4 spells total. The oath spells above are always prepared. Choose 2 additional spells from the Paladin spell list.
+You have chosen the following two additional Paladin spells:
 
-**Suggested Options:**
-- Bless
-- Cure Wounds
-- Detect Evil and Good
-- Shield of Faith
-- Thunderous Smite
+**Detect Evil and Good** (1st-level Divination)
+- **Casting Time:** 1 Action
+- **Range:** Self
+- **Duration:** Concentration, up to 10 minutes
+- **Effect:** For the duration, you know if there is an Aberration, Celestial, Elemental, Fey, Fiend, or Undead within 30 feet of you. You also know the location of the creature. Similarly, you know if there is a place or object within 30 feet that has been magically consecrated or desecrated.
+
+**Shield of Faith** (1st-level Abjuration)
+- **Casting Time:** 1 Bonus Action
+- **Range:** 60 feet
+- **Duration:** Concentration, up to 10 minutes
+- **Effect:** A shimmering field appears and surrounds a creature of your choice within range, granting it a +2 bonus to AC for the duration.
 
 ---
 
@@ -281,7 +287,7 @@ You can prepare 4 spells total. The oath spells above are always prepared. Choos
 ### Action Economy
 
 - **Action:** Attack, Cast Spell, Dash, Disengage, Dodge, Help, Hide, Ready, Search, Use an Object
-- **Bonus Action:** Lay on Hands, Peerless Athlete, Inspiring Smite, Divine Smite (spell), Off-hand attack (if dual-wielding)
+- **Bonus Action:** Lay on Hands, Peerless Athlete, Inspiring Smite, Divine Smite (spell), Shield of Faith, Off-hand attack (if dual-wielding)
 - **Reaction:** Opportunity Attack, Shield spell, etc.
 
 ### Common Checks
