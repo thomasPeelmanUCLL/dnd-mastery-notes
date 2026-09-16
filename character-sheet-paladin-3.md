@@ -4,11 +4,12 @@
 
 | Field | Value |
 |-------|-------|
-| **Name** | [Your Character Name] |
+| **Name** | Vern Vanto |
 | **Class** | Paladin |
 | **Level** | 3 |
 | **Background** | Noble |
 | **Species** | Dwarf |
+| **Alignment** | Lawful Good |
 | **Oath** | Oath of Glory |
 | **Proficiency Bonus** | +2 |
 | **Passive Wisdom (Perception)** | 10 |
@@ -76,11 +77,11 @@ You gain proficiency in three skills of your choice.
 **Tool Proficiency**
 - One type of Gaming Set (Cards) ✓
 
-**Equipment**
-
-Choose one of the following options:
-- **Option A:** Gaming Set (same as above), Fine Clothes, Perfume, 29 GP
-- **Option B:** 50 GP for a more customizable loadout
+**Equipment (Chosen: Option A)**
+- Gaming Set (Cards)
+- Fine Clothes
+- Perfume
+- 29 GP
 
 **Background Feature: Position of Privilege**
 
@@ -99,39 +100,56 @@ Your blessed touch can heal wounds. You have a pool of healing power that replen
 - **Usage:** You can touch a creature (which could be yourself) and draw power from the pool of healing to restore a number of Hit Points to that creature, up to the maximum amount remaining in the pool.
 - **Additional Effect:** You can also expend 5 Hit Points from the pool of healing power to remove the Poisoned condition from the creature; those points don't also restore Hit Points to the creature.
 
-### Level 2: Divine Smite (Spell)
+### Level 1: Spellcasting
 
-You always have the Divine Smite spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it in this way again.
-
-**Divine Smite**
-- **Casting Time:** 1 Bonus Action
-- **Range:** Self
-- **Duration:** Instantaneous
-- **Effect:** The next time you hit a creature with a melee weapon attack before the spell ends, your weapon deals an extra 2d8 Radiant damage to the target, plus 1d8 for each spell slot level higher than 1st used to cast it (maximum 5d8). The damage increases by 1d8 if the target is an Undead or a Fiend (maximum 6d8).
-
-### Level 2: Spellcasting
-
-You have learned to draw on divine magic through your devotion and have gained the ability to cast spells.
+You have learned to cast spells through prayer and meditation.
 
 - **Spellcasting Ability:** Charisma
+- **Spellcasting Focus:** You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.
 - **Spell Save DC:** 14 (8 + Proficiency + Charisma modifier = 8 + 2 + 2)
 - **Spell Attack Modifier:** +4 (Proficiency + Charisma modifier = 2 + 2)
 - **Spell Slots:** 2 first-level slots
-- **Spells Known:** 4 spells prepared
+- **Prepared Spells:** 4 spells prepared (at level 3, per the Paladin Features table)
+
+### Level 1: Weapon Mastery
+
+Your training with weapons allows you to use the mastery properties of two kinds of weapons of your choice with which you have proficiency, such as Longswords and Javelins.
+
+Whenever you finish a Long Rest, you can change the kinds of weapons you chose.
+
+- **Chosen Weapons:** Longsword, Javelin
+- **Longsword Mastery Property:** Sap
+- **Javelin Mastery Property:** Slow
+
+### Level 2: Fighting Style
+
+You gain a Fighting Style feat of your choice. This choice was a **free choice** (no other option was locked in beforehand).
+
+- **Defense** ✓ (chosen) While you are wearing armor, you gain a +1 bonus to AC.
+
+### Level 2: Paladin's Smite
+
+You always have the Divine Smite spell prepared. You can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it this way again.
+
+**Divine Smite** (Level 1 Evocation, Paladin)
+- **Casting Time:** Bonus Action, which you take immediately after hitting a target with a Melee weapon or an Unarmed Strike
+- **Range:** Self
+- **Components:** V
+- **Duration:** Instantaneous
+- **Effect:** The target takes an extra 2d8 Radiant damage from the attack. The damage increases by 1d8 if the target is a Fiend or an Undead.
+- **Using a Higher-Level Spell Slot:** The damage increases by 1d8 for each spell slot level above 1.
 
 ### Level 3: Channel Divinity
 
-You can channel divine energy directly from your deity, using it to fuel magical effects. You start with one such effect: Divine Sense. Other Paladin features give you additional Channel Divinity effect options, and your Oath of Glory grants you two more.
+You can channel divine energy directly from the Outer Planes, using it to fuel magical effects. You start with one such effect: Divine Sense. Other Paladin features give additional Channel Divinity effect options, and your Oath of Glory grants you two more.
 
 Each time you use your Channel Divinity, you choose which effect from this class to create. You can use your Channel Divinity twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 
-- **Divine Sense (Channel Divinity Option)** As an Action, you can open your awareness to detect such forces. Until the end of your next turn, you know the location of any Celestial, Fiend, or Undead within 60 feet of you that is not behind Total Cover. You know the type (Celestial, Fiend, or Undead) of any being whose presence you sense, but not its identity. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the Hallow spell. You can use this feature a number of times equal to your Proficiency Bonus (2). You regain all expended uses when you finish a Long Rest.
+- **Divine Sense (Channel Divinity Option)** As a Bonus Action, you can open your awareness to detect Celestials, Fiends, and Undead. For the next 10 minutes or until you have the Incapacitated condition, you know the location of any creature of those types within 60 feet of yourself, and you know its creature type. Within the same radius, you also detect the presence of any place or object that has been consecrated or desecrated, as with the Hallow spell.
 
-### Level 3: Fighting Style
+### Level 3: Paladin Subclass
 
-You have adopted a particular style of fighting as your specialty. Choose one of the following options:
-
-- **Defense** ✓ While you are wearing armor, you gain a +1 bonus to AC.
+You gain a Paladin Subclass of your choice: **Oath of Glory**.
 
 ---
 
@@ -139,17 +157,16 @@ You have adopted a particular style of fighting as your specialty. Choose one of
 
 ### Tenets of Glory
 
-The Oath of Glory is for those paladins who seek to prove themselves worthy through great deeds and heroic actions.
+Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train diligently and encourage their companions, so that they're all ready when destiny calls.
 
-Tenets include:
-- **Actions Over Words:** Strive to be known by deeds, not words.
-- **Challenges Are but Tests:** Face hardships with courage, and encourage others to emulate your fortitude.
-- **Hone the Body:** As your physical form is your instrument, so must you train it to be mighty enough to hold to your ideals.
-- **Discipline the Soul:** Your mind and spirit must be as strong as your body, or else you will falter when your strength fails.
+These Paladins share the following tenets:
+- **Endeavor to be known by your deeds.**
+- **Face hardships with courage.**
+- **Inspire others to strive for glory.**
 
 ### Oath Spells (Always Prepared)
 
-You gain additional spells at certain levels that are always prepared and don't count against your number of spells prepared.
+The magic of your oath ensures you always have certain spells ready; when you reach a Paladin level specified in the Oath of Glory Spells table, you thereafter always have the listed spells prepared.
 
 **Level 3 Oath Spells:**
 - Guiding Bolt
@@ -158,7 +175,7 @@ You gain additional spells at certain levels that are always prepared and don't 
 ### Channel Divinity Options
 
 - **Peerless Athlete** As a Bonus Action, you can expend one use of your Channel Divinity to augment your athleticism. For 1 hour, you have Advantage on Strength (Athletics) and Dexterity (Acrobatics) checks, and the distance of your Long and High Jumps increases by 10 feet (this extra distance costs movement as normal).
-- **Inspiring Smite** Immediately after you deal damage to a creature with your Divine Smite feature, you can expend one use of your Channel Divinity as a Bonus Action and distribute Temporary Hit Points to creatures of your choice within 30 feet of you, which can include you. The total number of Temporary Hit Points equals 2d8 + your Paladin level (2d8 + 3 = 2d8 + 3), divided among the chosen creatures however you like.
+- **Inspiring Smite** Immediately after you cast Divine Smite, you can expend one use of your Channel Divinity and distribute Temporary Hit Points to creatures of your choice within 30 feet of yourself, which can include you. The total number of Temporary Hit Points equals 2d8 plus your Paladin level (2d8 + 3), divided among the chosen creatures however you like.
 
 ---
 
@@ -195,9 +212,9 @@ You gain additional spells at certain levels that are always prepared and don't 
 - Simple Weapons ✓
 - Martial Weapons ✓
 
-### Weapon Mastery
+### Weapon Mastery (Level 1 Feature)
 
-You have the Weapon Mastery feature, allowing you to use the special properties of weapons you are proficient with.
+You have the Weapon Mastery feature, allowing you to use the mastery properties of two kinds of weapons you are proficient with. You chose **Longswords** and **Javelins**.
 
 #### Longsword
 
@@ -220,6 +237,7 @@ You have the Weapon Mastery feature, allowing you to use the special properties 
 | Damage Total (Melee) | 1d6 + 4 Piercing |
 | Damage Total (Ranged) | 1d6 + 4 Piercing |
 | Mastery Property | Slow |
+| Quantity Carried | 6 |
 
 ---
 
@@ -243,6 +261,35 @@ You have the Weapon Mastery feature, allowing you to use the special properties 
 
 **Other Proficiencies**
 - Weapon Mastery ✓
+
+### Starting Equipment (Full List)
+
+**From Paladin Class (Option A):**
+- Chain Mail
+- Shield
+- Longsword
+- 6 Javelins
+- Holy Symbol (Emblem)
+- Priest's Pack, which contains:
+  - Backpack
+  - Blanket
+  - 10 Candles
+  - Tinderbox
+  - Alms Box
+  - 2 Blocks of Incense
+  - Censer
+  - Vestments
+  - 2 Days of Rations
+  - Waterskin
+- 9 GP
+
+**From Noble Background (Option A):**
+- Gaming Set (Cards)
+- Fine Clothes
+- Perfume
+- 29 GP
+
+**Total Starting Gold:** 38 GP (9 GP from class + 29 GP from background)
 
 ---
 
@@ -287,7 +334,7 @@ You have chosen the following two additional Paladin spells:
 ### Action Economy
 
 - **Action:** Attack, Cast Spell, Dash, Disengage, Dodge, Help, Hide, Ready, Search, Use an Object
-- **Bonus Action:** Lay on Hands, Peerless Athlete, Inspiring Smite, Divine Smite (spell), Shield of Faith, Off-hand attack (if dual-wielding)
+- **Bonus Action:** Lay on Hands, Peerless Athlete, Inspiring Smite (after casting Divine Smite), Divine Smite (after hitting with a melee weapon/Unarmed Strike), Shield of Faith, Divine Sense, Stonecunning, Off-hand attack (if dual-wielding)
 - **Reaction:** Opportunity Attack, Shield spell, etc.
 
 ### Common Checks
@@ -317,3 +364,5 @@ You have chosen the following two additional Paladin spells:
 
 **Character created using D&D 5e 2024 Rules (Player's Handbook 2024)**  
 **Level 3 Paladin | Oath of Glory | Noble Background | Dwarf Species**
+
+**Source verified against:** [dnd2024.wikidot.com](http://dnd2024.wikidot.com/)
